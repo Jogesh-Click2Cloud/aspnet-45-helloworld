@@ -6,21 +6,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aspnet-45-helloworld", ".",
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_$PortNumber"
-		Debug.AspNetCompiler.PhysicalPath = "..\aspnet-45-example\"
+		Debug.AspNetCompiler.PhysicalPath = "..\aspnet-45-helloworld\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_$PortNumber\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_$PortNumber"
-		Release.AspNetCompiler.PhysicalPath = "..\aspnet-45-example\"
+		Release.AspNetCompiler.PhysicalPath = "..\aspnet-45-helloworld\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_$PortNumber\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60233"
-		SlnRelativePath = "..\aspnet-45-example\"
+		SlnRelativePath = "..\aspnet-45-helloworld\"
 	EndProjectSection
 EndProject
 Global
