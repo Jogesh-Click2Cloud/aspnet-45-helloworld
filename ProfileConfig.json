@@ -1,1 +1,1 @@
-{"OpenshiftServer":null,"ProjectName":"sample","BuildConfig":"aspnet-45-example","RouteURL":"http://aspnet-45-example-sample.cloudapps.example.com"}
+{"OpenshiftServer":null,"ProjectName":"asp-45-mysql","BuildConfig":"aspnet-45-mysql-ex","RouteURL":"http://aspnet-45-helloworld-asp-45-mysql.cloudapps.example.com"}
